@@ -12,7 +12,7 @@ export default async function handler(req, res) {
 
   const RECIPIENTS = [
     'gosia@avantmanagement.la',
-    'zuzanna.rupinska@home-estate.pl'
+  
   ];
 
   function formatSurvey(s) {
